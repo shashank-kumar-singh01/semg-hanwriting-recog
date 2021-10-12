@@ -1,2 +1,2 @@
-# semg-hanwriting-recog
+# semg-handwriting-recog
 machine learning 
